@@ -18,9 +18,10 @@ h3 {
 div {
   text-align: center;
   background-color: red;
-  float: left;
+  width: 25%;
 }
 
 #details {
   display: block;
+  float: left;
 }
